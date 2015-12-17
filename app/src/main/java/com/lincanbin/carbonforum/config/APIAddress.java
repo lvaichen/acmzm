@@ -12,9 +12,9 @@ public class APIAddress
 */
 
     //Real
-    public static final String DOMAIN_NAME = "https://www.94cb.com" + WEBSITE_PATH; // Main domain name
-    public static final String MOBILE_DOMAIN_NAME = "https://m.94cb.com" + WEBSITE_PATH; // Domain name of mobile version
-    public static final String BASIC_API_URL = "https://api.94cb.com" + WEBSITE_PATH; // Domain name of API
+    public static final String DOMAIN_NAME = "http://www.acmzm.com" + WEBSITE_PATH; // Main domain name
+    public static final String MOBILE_DOMAIN_NAME = "http://m.acmzm.com" + WEBSITE_PATH; // Domain name of mobile version
+    public static final String BASIC_API_URL = "http://api.acmzm.com" + WEBSITE_PATH; // Domain name of API
 
 	//中等头像地址
 	public static String MIDDLE_AVATAR_URL(String userID, String avatarSize){
